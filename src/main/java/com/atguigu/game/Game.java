@@ -4,6 +4,7 @@ public class Game {
 
 	public static void main(String[] args) {
 		System.out.println("这是我开发的一个小游戏。。。");
+		System.out.println("这是我开发的一个小游戏。。。");
 	}
 
 }
